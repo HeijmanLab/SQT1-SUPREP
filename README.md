@@ -1,6 +1,6 @@
 # SQT1 - SupRep
 
-# In-silico modeling SupRep treatment in SQT1
+# In-silico modeling of SupRep treatment in SQT1
 
 This model is part of the European Heart Journal (2025) submission:
 "AAV9-Mediated KCNH2-Suppression-Replacement Gene Therapy in Transgenic Rabbit Models with Type 1 Short QT Syndrome"
